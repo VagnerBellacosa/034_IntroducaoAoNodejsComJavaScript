@@ -12,4 +12,5 @@ Dê os seus primeiros passos com Node.js, conhecendo os conceitos e uso dessa te
 ##### Diana Martine
 Application Development New Associate, Accenture
 
+https://web.digitalinnovation.one/lab/introducao-ao-nodejs-com-javascript/learning/8190fb92-4dfc-4b35-a6f6-a0a1c0779044
 
