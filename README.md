@@ -1,4 +1,4 @@
-# Laabs
+# Labs
 
 ## 034_IntroducaoAoNodejsComJavaScript
 
